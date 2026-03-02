@@ -19,6 +19,19 @@ margin: 0;
 
 }
 
+.card img{
+background-color: #3498db;
+color: white;
+border: none;
+padding: 5px 5px;
+border-radius: 50%;
+cursor: pointer;
+width: 100px;
+height: 100px;
+object-fit: cover;
+
+}
+
 button {
 background-color: #f1f5f0;
 color: hsl(0, 85%, 32%);
