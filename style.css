@@ -46,3 +46,6 @@ transition: backgraund 0.3s;
 
 
 }
+button:hover{
+    background-color: hsl(150, 64%, 44%);
+}
