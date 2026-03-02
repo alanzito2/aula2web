@@ -6,7 +6,30 @@ justify-content: center;
 align-items: center ;
 height: 100v;
 margin: 0;
+}
+
+.card {
+ background-color:whit;
+ width: 300 px;
+ padding: 20px;
+ border-radius: 15px;
+ box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+ text-align: center;
+ border: 1px solid #ddd;
+
+}
+
+button {
+background-color: #f1f5f0;
+color: white;
+border: nome;
+padding: 10px 20 px;
+border-radius: 5 px;
+cursor: pointer;
+transition: backgraund 0.3s;
 
 
-    
+
+
+
 }
