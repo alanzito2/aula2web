@@ -1,5 +1,5 @@
 body {
-background-color: #f1f5f0;
+background-color: hwb(4 3% 14%);
 font-family: 'segoe UI' ;
 display: flex;
 justify-content: center;
@@ -21,7 +21,7 @@ margin: 0;
 
 button {
 background-color: #f1f5f0;
-color: rgb(255, 255, 255);
+color: hsl(0, 85%, 32%);
 border: nome;
 padding: 10px 20 px;
 border-radius: 5 px;
