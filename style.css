@@ -21,7 +21,7 @@ margin: 0;
 
 button {
 background-color: #f1f5f0;
-color: white;
+color: rgb(255, 255, 255);
 border: nome;
 padding: 10px 20 px;
 border-radius: 5 px;
