@@ -48,4 +48,5 @@ transition: backgraund 0.3s;
 }
 button:hover{
     background-color: hwb(0 15% 85%);
+    text-emphasis-color: white;
 }
